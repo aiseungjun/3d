@@ -1,0 +1,21 @@
+Describe your explanation about below simple rendering functions.
+
+1. barycentric_coords: 
+
+2. bounding_box: 
+
+3. scaled_vertices: 
+
+4. scaled_texture_vertices: 
+
+5. normal_vectors: 
+
+6. render_line: 
+
+7. draw_triangle: 
+
+8. shade_triangle_texture: 
+
+9. shade_triangle: 
+
+10. render_shaded: 
