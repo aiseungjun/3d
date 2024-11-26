@@ -1,12 +1,12 @@
 # Simplest 3d-Render
 
----
+
 
 ## YBIGTA_DS 3D Assignment
 
 Welcome to the 3D Assignment repository! This repository contains the basic rendering code to help you generate 3D rendered images. Your task is to execute the provided rendering code, obtain the resulting images, and write one-line explanations for specific rendering functions used in the code. Don't worry. No coding, 1 second inference time! (It's possible as this implementaion is most simplest, fixed pose with python.)
 
----
+
 
 ## Assignment Workflow
 
@@ -66,7 +66,7 @@ The rendered image will be output as a `.bmp` file.
 
 ---
 
-### Repository Structure
+## Repository Structure
 ```
 3d_Render/
 ├── models/                      # Folder containing 3D models and textures
@@ -88,7 +88,7 @@ The rendered image will be output as a `.bmp` file.
 
 ---
 
-### Notes
+## Notes
 
 `.tga` files store texture information for the rendering process, but the rendering code is designed to function also without them.
 Ensure your `.obj` and `.tga` files are compatible with the code.
